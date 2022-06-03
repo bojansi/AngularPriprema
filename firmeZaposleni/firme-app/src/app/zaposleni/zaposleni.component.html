@@ -1,0 +1,23 @@
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>idFirma</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>JMBG</th>
+            <th>Godiste</th>
+            <th>Pozicija</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let z of zaposleni">
+            <td>{{ z.idFirma }}</td>
+            <td>{{ z.name }}</td>
+            <td>{{ z.surname }}</td>
+            <td>{{ z.JMBG }}</td>
+            <td>{{ z.godiste }}</td>
+            <td>{{ z.pozicija }}</td>
+        </tr>
+    </tbody>
+</table>
+

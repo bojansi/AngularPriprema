@@ -1,0 +1,164 @@
+[  
+    {  
+        "idFirma": 1,  
+        "name": "Bojan",
+        "surname" : "Simic",
+        "JMBG" : 2303998790037 ,
+        "godiste": 1998,
+        "pozicija": "Direktor"
+    },
+    {  
+        "idFirma": 1,  
+        "name": "Bosko",
+        "surname" : "Lukovic",
+        "JMBG" : 1293819039212,
+        "godiste": 1998,
+        "pozicija": "Komercijalista"
+    }, 
+    {  
+        "idFirma": 1,  
+        "name": "Petar",
+        "surname" : "Draskovic",
+        "JMBG" : 7733298753627 ,
+        "godiste": 1995,
+        "pozicija": "Magacioner"
+    }, 
+    {  
+        "idFirma": 1,  
+        "name": "Marko",
+        "surname" : "Markovic",
+        "JMBG" : 5678923678212 ,
+        "godiste": 2000,
+        "pozicija": "Vozac"
+    }, 
+    {  
+        "idFirma": 2,  
+        "name": "Jovan",
+        "surname" : "Jovanovic",
+        "JMBG" : 986837290210 ,
+        "godiste": 1988,
+        "pozicija": "Direktor"
+    },
+    {  
+        "idFirma": 2,  
+        "name": "Darko",
+        "surname" : "Petkovic",
+        "JMBG" : 872748293023 ,
+        "godiste": 1997,
+        "pozicija": "Komercijalista"
+    }, 
+    {  
+        "idFirma": 2,  
+        "name": "Luka",
+        "surname" : "Lukovic",
+        "JMBG" : 7733298754325 ,
+        "godiste": 1992,
+        "pozicija": "Magacioner"
+    }, 
+    {  
+        "idFirma": 2,  
+        "name": "Njegos",
+        "surname" : "Mitrovic",
+        "JMBG" : 898364738329 ,
+        "godiste": 1995,
+        "pozicija": "Vozac"
+    }, 
+    {  
+        "idFirma": 3,  
+        "name": "Sejo",
+        "surname" : "Mahric",
+        "JMBG" : 993029320230 ,
+        "godiste": 1987,
+        "pozicija": "Direktor"
+    },
+    {  
+        "idFirma": 3,  
+        "name": "Miroslav",
+        "surname" : "Lukovic",
+        "JMBG" : 9832329102039 ,
+        "godiste": 2001,
+        "pozicija": "Komercijalista"
+    }, 
+    {  
+        "idFirma": 3,  
+        "name": "Filip",
+        "surname" : "Visnjic",
+        "JMBG" : 3782902839012 ,
+        "godiste": 1995,
+        "pozicija": "Magacioner"
+    }, 
+    {  
+        "idFirma": 3,  
+        "name": "Mirko",
+        "surname" : "Dukic",
+        "JMBG" : 2389029384910 ,
+        "godiste": 1978,
+        "pozicija": "Vozac"
+    }, 
+    {  
+        "idFirma": 4,  
+        "name": "Jovana",
+        "surname" : "Markovic",
+        "JMBG" : 2303998790037 ,
+        "godiste": 1998,
+        "pozicija": "Direktor"
+    },
+    {  
+        "idFirma": 4,  
+        "name": "Jovana",
+        "surname" : "Petrovic",
+        "JMBG" : 1293819039212 ,
+        "godiste": 1998,
+        "pozicija": "Komercijalista"
+    }, 
+    {  
+        "idFirma": 4,  
+        "name": "Nikola",
+        "surname" : "Kalicanin",
+        "JMBG" : 7733298753627 ,
+        "godiste": 1995,
+        "pozicija": "Magacioner"
+    }, 
+    {  
+        "idFirma": 4,  
+        "name": "Kesa",
+        "surname" : "Belic",
+        "JMBG" : 5678923678212 ,
+        "godiste": 2000,
+        "pozicija": "Vozac"
+    },
+    {  
+        "idFirma": 5,  
+        "name": "Dusan",
+        "surname" : "Pantic",
+        "JMBG" : 324567895674 ,
+        "godiste": 1994,
+        "pozicija": "Direktor"
+    },
+    {  
+        "idFirma": 5,  
+        "name": "Radimir",
+        "surname" : "Kojic",
+        "JMBG" : 3792039482039 ,
+        "godiste": 1988,
+        "pozicija": "Komercijalista"
+    }, 
+    {  
+        "idFirma": 5,  
+        "name": "Dona",
+        "surname" : "Sakic",
+        "JMBG" : 7839203948283 ,
+        "godiste": 1995,
+        "pozicija": "Magacioner"
+    }, 
+    {  
+        "idFirma": 5,  
+        "name": "Janko",
+        "surname" : "Jankovic",
+        "JMBG" : 2738928372723 ,
+        "godiste": 1996,
+        "pozicija": "Vozac"
+    }
+    
+
+]
